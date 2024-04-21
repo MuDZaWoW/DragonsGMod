@@ -1,0 +1,14 @@
+## Interface: 100206
+## Title: DragonsGMod |cffeda55fGM-GUI|r by |cFFFF8080MuDZaHeDiN|r |cff00aa0010.2.6+|r
+## Notes: Use /dgm to open GUI.
+## Author: MuDZaHeDiN
+## Version: 0.7
+
+libs\LibStub\LibStub.lua
+libs\AceLocale-3.0\AceLocale-3.0.xml
+
+locale\enUS.lua
+locale\deDE.lua
+
+DragonsGMod.lua
+DragonsGMod3D.lua
